@@ -1,1 +1,1 @@
-# HW-15-Sequelize-Burger
+# Sequelize-Burger
