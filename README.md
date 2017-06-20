@@ -4,3 +4,6 @@ Description Eat-Da-Burger! is a restaurant app that lets users input the names o
 Requirements Create a burger logger with MySQL, Node, Express, Handlebars and a homemade OR. Rwquired to follow the MVC design pattern; use Node and MySQL to query and route data in your app, and Handlebars to generate your HTML.
 
 Technologies Used Sequelize (updated Homework #14: Burger from MySQL to Sequelize) Node Express Handlebars Javascript HTML CSS
+ 
+ Acknowledgements
+ owelchez/sequelizeburger
